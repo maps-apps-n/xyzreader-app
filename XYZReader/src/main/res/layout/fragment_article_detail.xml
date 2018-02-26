@@ -30,7 +30,7 @@
             <FrameLayout
                 android:id="@+id/photo_container"
                 android:layout_width="match_parent"
-                android:layout_height="400dp"
+                android:layout_height="@dimen/image"
                 android:background="@color/photo_placeholder">
                 <!--suppress AndroidLintContentDescription -->
                 <ImageView
