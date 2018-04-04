@@ -1,6 +1,5 @@
 = XYZ Reader
 # Project 5 of the Udacity Android Nanodegree
 ## Screenshots
-![Home Page]
-(xyzreader-app/Screenshot1.png)
+![](https://github.com/maps-apps-n/xyzreader-app/blob/master/Screenshot1.png?raw=true)
 
