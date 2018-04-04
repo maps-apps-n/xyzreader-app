@@ -1,3 +1,3 @@
 = XYZ Reader
 
-![](Screenshot_1519582930.png)
+![](xyzreader-app/Screenshot_1519582930.png)
